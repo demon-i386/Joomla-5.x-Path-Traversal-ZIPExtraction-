@@ -1,6 +1,6 @@
 
 ## Subject
-CVE Request: Path Traversal via ZIP Upload in Joomla! 5.x Update Component
+Path Traversal via ZIP Upload in Joomla! 5.x Update Component
 
 ---
 
